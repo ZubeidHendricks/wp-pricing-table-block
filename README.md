@@ -1,5 +1,7 @@
 # Pricing Table
 
+🌐 **[Browse all plugins](https://zubeidhendricks.github.io/wp-plugins-site/)** · ⬇️ **[Download .zip](https://github.com/ZubeidHendricks/wp-pricing-table-block/releases/latest/download/pricing-table-block.zip)**
+
 Build clean, responsive pricing tables with simple shortcodes — highlight a
 plan, add features and a CTA. Part of the
 [Zub Plugin Factory](https://github.com/ZubeidHendricks/wp-plugin-factory).
